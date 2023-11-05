@@ -9,3 +9,6 @@ display: block;
 align-items: center;
 justify-content: center;
 }
+.black{
+    color: hsl(228, 100%, 84%);
+}
